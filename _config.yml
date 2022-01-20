@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "I'm Dhrubajyoti Das"
+title                    : "Dhrubajyoti Das"
 title_separator          : "-"
 name                     : &name "Dhrubajyoti Das"
-description              : &description "personal description"
-url                      : https://dhrubapuc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Lecturer at Dept. of CSE, Premier University, Chattogram"
+url                      : https://dhrubapuc23.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dhrubapuc23/dhrubapuc.github.io"
+repository               : "dhrubapuc23/dhrubapuc23.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dhrubajyoti Das"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Graduate Student at Chittagong University of Engineering and Technology"
   location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  employer         : "Lecturer, Dept. of CSE, Premier University, Chattogram"
+  pubmed           : 
+  googlescholar    : "#"
+  email            : "dhrubajyoti1212@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "dhrubapuc23"
   google_plus      :
   keybase          :
   instagram        :
