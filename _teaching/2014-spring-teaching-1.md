@@ -1,14 +1,14 @@
 ---
 title: "Teaching Experience"
 collection: teaching
-type: "Undergraduate course"
+type:
 permalink: /teaching/
-venue: "Premier University, Chattogram, Department of Computer Science and Engineering"
-date: 2022-08-01
-location: "Chattogram, Bangladesh"
+venue: 
+date: 
+location: 
 ---
 
-I conducted the following courses in Premier University, Chattogram since 2018. I have several responsibilities including conducting theory and lab courses, creating and grading assignment and also conducting final exam.
+I conducted the following undergraduate courses in **Premier University, Chattogram** since 2018. I have several responsibilities including conducting theory and lab courses, creating and grading assignment and also conducting final exam.
 
 | **Session** |                        **Course Tittle**                       | **Number of Student** |   
 |:-----------:|:--------------------------------------------------------------:|:---------------------:|
@@ -31,7 +31,7 @@ I conducted the following courses in Premier University, Chattogram since 2018. 
 
 
 
-I conducted the following courses in **Cox's Bazar International University, Cox's Bazar** since from 2017 to 2018. I have several responsibilities including conducting theory and lab courses, creating and grading assignment and also conducting final exam.
+I conducted the following undergraduate courses in **Cox's Bazar International University, Cox's Bazar** since from 2017 to 2018. I have several responsibilities including conducting theory and lab courses, creating and grading assignment and also conducting final exam.
 
 | **Session** |                        **Course Tittle**                       | **Number of Student** |   
 |:-----------:|:--------------------------------------------------------------:|:---------------------:|
