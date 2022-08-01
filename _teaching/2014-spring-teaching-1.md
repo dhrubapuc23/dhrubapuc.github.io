@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Premier University, Chattogram, Department of Computer Science and Engineering"
+date: 2022-08-01
+location: "Chattogram, Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I conducted the following courses in Premier University, Chattogram since 2018. I have several responsibilities including conducting theory and lab courses, creating and grading assignment and also conducting final exam.
 
 | **Session** |                        **Course Tittle**                       | **Number of Student** |   
 |:-----------:|:--------------------------------------------------------------:|:---------------------:|
