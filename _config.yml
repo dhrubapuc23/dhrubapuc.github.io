@@ -236,12 +236,13 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+      
+      # education
   - scope:
       path: ""
-      type: talks
+      type: education
     values:
-      layout: talk
+      layout: education
       author_profile: true
       share: true
 
