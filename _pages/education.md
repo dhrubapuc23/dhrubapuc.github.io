@@ -20,7 +20,7 @@ Supervisor: [Dr. Kaushik Deb](https://www.cuet.ac.bd/members/498)
 Passing Year: <b>May 2018</b>   
 CGPA: <b>3.71/4.00</b>  
 Position: <b>3<sup>st</sup>/70</b>   
-Supervisor: [Mr. Subrata Das] 
+Supervisor: Mr. Subrata Das 
 
 
 ## <font color="#00cc66"> Employment </font>
