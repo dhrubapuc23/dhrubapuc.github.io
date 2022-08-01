@@ -30,15 +30,7 @@ I conducted the following courses in Premier University, Chattogram since 2018. 
 | Spring 2020 | Software Engineering and Information  System Design Laboratory |           28          |  
 |             |                                                                |                       |   
 
----
-title: "Teaching Experience"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/
-venue: "Premier University, Chattogram, Department of Computer Science and Engineering"
-date: 2022-08-01
-location: "Chattogram, Bangladesh"
----
+
 
 I conducted the following courses in Cox's Bazar International University, Cox's Bazar since from 2017 to 2018. I have several responsibilities including conducting theory and lab courses, creating and grading assignment and also conducting final exam.
 
