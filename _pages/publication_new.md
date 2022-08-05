@@ -13,4 +13,4 @@ Apart from that, I am also interested in applying Deep Learning approaches to ot
 
 ## <font color="#00cc66"> Conference </font>  
 **Trash Image Classification Using Transfer Learning Based Deep Neural Networks**  
-  *<b><font color="#000">Dhrubajyoti Das</font></b>*, Anik Sen, Syed Md. Minhaz Hossain, Kaushik Deb  <font color="	#993333"> Proceedings of the 5th International Conference on Intelligent Computing & Optimization (ICO) 2022, Springer </font>(Accepted)
+  *<b><font color="#000">Dhrubajyoti Das</font></b>*, Anik Sen, Syed Md. Minhaz Hossain, Kaushik Deb, _Proceedings of the 5th International Conference on Intelligent Computing & Optimization (ICO) 2022, Springer_(Accepted)
