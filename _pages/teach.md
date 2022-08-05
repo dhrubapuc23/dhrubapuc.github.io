@@ -34,9 +34,9 @@ I conducted the following undergraduate courses in **Cox's Bazar International U
 
 | **Session** |                        **Course Tittle**                       | **Number of Student** |   
 |:-----------:|:--------------------------------------------------------------:|:---------------------:|
-| Spring 2022 |                     Structured Programming                     |           93          | 
-| Spring 2022 |                Structured Programming Laboratory               |           64          |  
-| Spring 2022 | Software Engineering and Information  System Design Laboratory |           64          |  
-|  Fall 2021  |            Algorithm Design and Analysis Laboratory            |           98          |   
-|  Fall 2021  |                   Database Management System                   |           64          |   
-|  Fall 2021  |              Database Management System Laboratory             |           65          |   
+| Spring 2018 |                     Data Structures                            |           35          | 
+| Spring 2018 | Software Engineering and Information  System Design Laboratory |           36          |
+|  Fall 2017  |                Computer Fundamentals                           |           60          |  
+|  Fall 2017  |                  Object Oriented Programming                   |           40          |   
+|  Fall 2017  |             Object Oriented Programming Laboratory             |           40          |   
+|  Fall 2017  |                     Data Structures                            |           30          |   
