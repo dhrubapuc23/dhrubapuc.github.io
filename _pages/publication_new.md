@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Research"
 excerpt: ""
 author_profile: true
 permalink: /publication_new/
