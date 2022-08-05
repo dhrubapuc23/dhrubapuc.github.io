@@ -14,5 +14,5 @@ I am working as a Lecturer at Premier University, Chattogram(PUC). My primary re
 <b>Email :</b> [<font color= "#990033" >dhruba_461@puc.ac.bd</font>](dhruba_461@puc.ac.bd) , [<font color= "#990033" >dhrubajyoti1212@gmail.com</font>](dhrubajyoti1212@gmail.com)
 
 
-<b>Here is my complete CV: </b> <a href="https://drive.google.com/file/d/18IydQCg79qvbxfHEWdkARpda2HYRvMs2/view?usp=sharing"><font color="#990033">dhruba-cv</font></a>
+<b>Here is my complete CV: </b> <a href="https://drive.google.com/file/d/1eTcj3t3NlMZMqHC90_OUwzWeTI2XzEDn/view?usp=sharing"><font color="#990033">dhruba-cv</font></a>
 
