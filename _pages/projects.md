@@ -22,3 +22,14 @@ redirect_from:
   * This web application was developed during software engineering course. Paypal sandbox was used for online transaction. For this PHP and MySQL were used.
 * DictionaryApp
   * This android application has been done during software development course. This project demonstrates the uses of REST API. 
+
+**<font color="#00cc66">Supervised Projects</font>**
+
+* Student Tracking System with RFID and Google Maps
+* Bangla Sign Alphabets Recognition Using Deep Neural Networks
+* EarningZone: A freelancing application
+* Recommendation System based Ecommerce Application
+* Telecare App
+* GrayScale: A Peer to Peer Banking System in Bangladesh Perspective
+* Blood2Support: A Blood Group Management App
+* CTG House Rental Services
