@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "#"
   email            : "dhrubajyoti1212@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Dhrubajyoti-Das-6"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-2419-1641"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  education:
+  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -236,13 +236,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-      
-      # education
+  # _talks
   - scope:
       path: ""
-      type: education
+      type: talks
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
 
