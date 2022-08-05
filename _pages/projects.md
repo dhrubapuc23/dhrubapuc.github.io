@@ -18,3 +18,7 @@ redirect_from:
 * Diagnostic Center Bill Management System
   * Generally, small diagnostic offers several types of tests like Complete blood count, Lipid profile, USG Lower abdomen etc. 
     Since bill processing for these types of tests requires paper work and is very error prone, this web application was developed to resolve this matter.
+* Bus Ticket Reservation System
+  * This web application was developed during software engineering course. Paypal sandbox was used for online transaction. For this PHP and MySQL were used.
+* DictionaryApp
+  * This android application has been done during software development course. This project demonstrates the uses of REST API. 
