@@ -15,7 +15,7 @@ Thesis Topic: Trash Classification Using Deep Neural Networks.
 Supervisor: [Dr. Kaushik Deb](https://www.cuet.ac.bd/members/498)
 
 
-**Premier University, Chattogram [(PUC)](https://cse.puc.ac.bd/)**   
+**Premier University, Chattogram [(PUC)](http://cse.puc.ac.bd/)**   
 *Bachelor of Science in Computer Science and Engineering*   
 Passing Year: <b>May 2018</b>   
 CGPA: <b>3.71/4.00</b>  
