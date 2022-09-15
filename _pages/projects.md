@@ -33,3 +33,5 @@ redirect_from:
 * GrayScale: A Peer to Peer Banking System in Bangladesh Perspective
 * Blood2Support: A Blood Group Management App
 * CTG House Rental Services
+* Face Recognition System
+* Smart Travelling App
