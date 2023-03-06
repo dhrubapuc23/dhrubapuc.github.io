@@ -35,3 +35,4 @@ redirect_from:
 * CTG House Rental Services
 * Face Recognition System
 * Smart Travelling App
+* Bengali Hate Speech Detection
