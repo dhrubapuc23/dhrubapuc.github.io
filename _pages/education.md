@@ -10,7 +10,7 @@ redirect_from:
 
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
 *Master of Science in Computer Science and Engineering*   
-Expected Graduation Year: <b>June 2023</b>   
+Expected Graduation Year: <b>September 2023</b>   
 Thesis Topic: Trash Classification Using Deep Neural Networks.     
 Supervisor: [Dr. Kaushik Deb](https://www.cuet.ac.bd/members/498)
 
