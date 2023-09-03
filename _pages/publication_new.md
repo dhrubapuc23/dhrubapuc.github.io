@@ -9,10 +9,11 @@ redirect_from:
 
 ## <font color="#00cc66"> Research Interests </font>  
 My research interest lies in the area of Computer Vision and Deep Learning. I am interested in solving Computer Vision problem using Deep Learning Approaches.
-Apart from that, I am also interested in applying Deep Learning approaches to other areas such as Natural Language Processing, Cybersecurity etc. 
+Apart from that, I am also interested in applying Deep Learning approaches to other areas such as Natural Language Processing, Cybersecurity, etc. 
 
-## <font color="#00cc66"> Conference </font>
+## <font color="#00cc66"> Journals</font>
 * <b><font color="#000">Dhrubajyoti Das</font></b>,  Kaushik Deb, Taufique Sayeed, Pranab Kumar Dhar, and Tetsuya Shimamura. "Outdoor Trash Detection in Natural Environment Using a Deep Learning Model." IEEE Access (2023) (Accepted)
+## <font color="#00cc66"> Conferences </font>
 * Md. Jobair, <b><font color="#000">Dhrubajyoti Das</font></b>, Nimmy Binte Islam, and Munna Dhar. "Bengali Hate Speech Detection with BERT and Deep Learning Models." Proceedings of the 2nd International Conference on Big Data, IoT, and Machine Learning 2023 (BIM). (Accepted for Publication in Springer Studies in Rhythm Engineering)
 * Maisha Fahmida, Md. Atiqul Islam Rizvi, <b><font color="#000">Dhrubajyoti Das</font></b>, and Kaushik Deb. "Automated Bone Age Assessment using Deep Learning with Attention Module." Proceedings of the 2nd International Conference on Big Data, IoT, and Machine Learning 2023 (BIM). (Accepted for Publication in a Taylor and Francis Book)
 * <b><font color="#000">Dhrubajyoti Das</font></b>, Anik Sen, Syed Md Minhaz Hossain, and Kaushik Deb. "Trash Image Classification Using Transfer Learning Based Deep Neural Network." In Intelligent Computing & Optimization: Proceedings of the 5th International Conference on Intelligent Computing and Optimization 2022 (ICO2022), pp. 561-571. Cham: Springer International Publishing, 2022. DOI: 10.1007/978-3-031-19958-5_53
