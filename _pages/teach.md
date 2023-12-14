@@ -7,10 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I conducted the following undergraduate courses in **Premier University, Chattogram** since 2018. I have several responsibilities including conducting theory and lab courses, creating and grading assignment and also conducting final exam.
+I conducted the following undergraduate courses in **Premier University, Chattogram** since 2018. I have several responsibilities, including conducting theory and lab courses, creating and grading assignments, and conducting final exams.
 
 | **Session** |                        **Course Tittle**                       | **Number of Student** |   
 |:-----------:|:--------------------------------------------------------------:|:---------------------:|
+| Spring 2023 |                        Data Structures                         |           79          |
+| Spring 2023 |                    Database Management System                  |           70          |
+|  Fall 2022  |                        Data Structures                         |           92          | 
+|  Fall 2022  |                      Software Development                      |           68          | 
 | Spring 2022 |                     Structured Programming                     |           93          | 
 | Spring 2022 |                Structured Programming Laboratory               |           64          |  
 | Spring 2022 | Software Engineering and Information  System Design Laboratory |           64          |  
@@ -30,7 +34,7 @@ I conducted the following undergraduate courses in **Premier University, Chattog
 
 
 
-I conducted the following undergraduate courses in **Cox's Bazar International University, Cox's Bazar** since from 2017 to 2018. I have several responsibilities including conducting theory and lab courses, creating and grading assignment and also conducting final exam.
+I conducted the following undergraduate courses in **Cox's Bazar International University, Cox's Bazar** from 2017 to 2018. I have several responsibilities, including conducting theory and lab courses, creating and grading assignments, and conducting final exams.
 
 | **Session** |                        **Course Tittle**                       | **Number of Student** |   
 |:-----------:|:--------------------------------------------------------------:|:---------------------:|
