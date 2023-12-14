@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Dhrubajyoti Das"
   avatar           : "dhruba.jpg"
-  bio              : "Graduate Student at Chittagong University of Engineering and Technology"
+  bio              : "Lecturer, Department of Computer Science and Engineering"
   location         : "Chattogram, Bangladesh"
   employer         : "Premier University, Chattogram"
   pubmed           : 
-  googlescholar    : "#"
+  googlescholar    : "https://scholar.google.com/citations?user=TgJafOwAAAAJ&hl=en"
   email            : "dhrubajyoti1212@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Dhrubajyoti-Das-6"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  LinkedIn         : "https://www.linkedin.com/in/dhrubapuc/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-2419-1641"
   pinterest        :
   soundcloud       :
