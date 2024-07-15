@@ -14,5 +14,5 @@ I am working as an Assistant Professor at Premier University, Chattogram(PUC). M
 <b>Email :</b> [<font color= "#990033" >dhruba_461@puc.ac.bd</font>](dhruba_461@puc.ac.bd) , [<font color= "#990033" >dhrubajyoti1212@gmail.com</font>](dhrubajyoti1212@gmail.com)
 
 
-<b>Here is my updated CV(as of July 2024): </b> <a href="https://drive.google.com/file/d/11MWCr7u8EW7uFo9Mr6VHSXhBtu6mYova/view?usp=drive_link"><font color="#990033">dhruba-cv</font></a>
+<b>Here is my updated CV(as of July 2024): </b> <a href="https://drive.google.com/file/d/1VUyFkojFaH7aHXoeLefGNaoGvjVe9Pi1/view?usp=drive_link"><font color="#990033">dhruba-cv</font></a>
 
