@@ -23,7 +23,10 @@ Class Position: <b>3<sup>rd</sup>/70</b>
 
 
 ## <font color="#00cc66"> Employment </font>
- **Lecturer <font color="#541A75">[October 2018 - Present]</font>**   
+**Assistant Professor <font color="#541A75">[July 2024 - Present]</font>**   
+ *Computer Science and Engineering, Premier University, Chattogram*
+
+ **Lecturer <font color="#541A75">[October 2018 - June 2024]</font>**   
  *Computer Science and Engineering, Premier University, Chattogram*
  
  **Teaching Assistant <font color="#541A75">[October 2017 - September 2018]</font>**   
